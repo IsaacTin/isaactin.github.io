@@ -16,17 +16,17 @@
     "resumedownload": "./Isaac_tin.pdf",
     "social": [
       {
-        "name": "linkedin",
+        "name": "Linkedin",
         "url": "https://www.linkedin.com/in/isaac-tin-4346631a5/",
         "className": "fa fa-linkedin"
       },
       {
-        "name": "instagram",
+        "name": "Instagram",
         "url": "https://www.instagram.com/iztko/",
         "className": "fa fa-instagram"
       },
       {
-        "name": "github",
+        "name": "Github",
         "url": "https://github.com/IsaacTin",
         "className": "fa fa-github"
       }
