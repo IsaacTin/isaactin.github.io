@@ -11,13 +11,18 @@ const Media = ({data}) => {
       var email = data.email;
       var message = data.contactmessage;
       var networks= data.social.map(function(network){
-         return <li key={network.name}><a href={network.url}><i className={network.className}></i></a></li>
+         return <li key={network.name}><a href={network.url}><i className={network.className}></i><p>{network.name}</p></a></li>
+
          
       })
     }
 
     const location = useLocation();
-    const { root } = location.state;
+    if (location.state) {
+      var root = location.state.root;
+    } else {
+      var root = 5;
+    }
 
     const pageTransition = 
       root > 5 ? { 
@@ -64,7 +69,10 @@ const Media = ({data}) => {
 
          <nav id="nav-wrap">
 
-         <ul id="nav" className="nav-wrap">
+         <a className="mobile-btn" href="#nav-wrap" title="Show navigation">Show navigation</a>
+         <a className="mobile-btn" href="#media" title="Hide navigation">Hide navigation</a>
+
+         <ul id="nav" className="nav">
             <li>
                <Link to={{
                   pathname: "/",
@@ -133,12 +141,6 @@ const Media = ({data}) => {
          <ul className="social">
             {networks}
          </ul>
-         <br/>
-                  <ul className="social-description">
-                     <li><a>linkedin</a></li>
-                     <li><a>Instagram</a></li>
-                     <li className="github"><a>Github</a></li>
-                  </ul>
       </motion.div>
       <p className="scrollleft">
       <Link to={{

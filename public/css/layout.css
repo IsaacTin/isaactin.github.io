@@ -121,8 +121,8 @@ header .scrolldown a {
 header .scrolldown a:hover { color: #11ABB0; }
 
 header .scrollright a {
-   position: absolute;
-   bottom: 45%;
+   position: fixed;
+   bottom: 43.0%;
    right: 5%;
    color: #fff;
    display: block;
@@ -140,8 +140,8 @@ header .scrollright a {
 }
 
 section .scrollleft a {
-   position: absolute;
-   bottom: 40.9%;
+   position: fixed;
+   bottom: 43.0%;
    left: 5%;
    color: #fff;
    display: block;
@@ -159,8 +159,8 @@ section .scrollleft a {
 }
 
 section .scrollright a {
-   position: absolute;
-   bottom: 40.9%;
+   position: fixed;
+   bottom: 43.0%;
    right: 5%;
    color: #fff;
    display: block;
@@ -353,8 +353,8 @@ ul#nav li.current button { color: #F06000; }
 
 #resume .scrollleft a {
    position: fixed;
-   bottom: 43.2%;
-   left: 5.2%;
+   bottom: 43.0%;
+   left: 5%;
    color: black;
    display: block;
    height: 42px;
@@ -371,8 +371,8 @@ ul#nav li.current button { color: #F06000; }
 
 #resume .scrollright a {
    position: fixed;
-   bottom: 43.1%;
-   right: 5.2%;
+   bottom: 43.0%;
+   right: 5%;
    color: black;
    display: block;
    height: 42px;
@@ -693,8 +693,8 @@ ul#nav li.current button { color: #F06000; }
 
 #portfolio .scrollleft a {
    position: fixed;
-   bottom: 43.2%;
-   left: 5.2%;
+   bottom: 43.0%;
+   left: 5%;
    color: black;
    display: block;
    height: 42px;
@@ -711,8 +711,8 @@ ul#nav li.current button { color: #F06000; }
 
 #portfolio .scrollright a {
    position: fixed;
-   bottom: 43.1%;
-   right: 5.2%;
+   bottom: 43.0%;
+   right: 5%;
    color: black;
    display: block;
    height: 42px;
@@ -1042,13 +1042,19 @@ call-to-action .button {
 #media .social {
    margin: 24px 0;
    padding: 0;
-   font-size: 30vh;
+   font-size: 1500%;
    text-shadow: 0px 1px 2px rgba(0, 0, 0, .8);
 }
 #media .social li {
    display: inline-block;
    margin: 0 7%;
    padding: 0;
+}
+
+#media .social li p{
+   font-size: 10%;
+   margin-top: 60%;
+   text-align: center;
 }
 #media .social li a { color: #fff; }
 #media .social li a:hover { color: #11ABB0; }
