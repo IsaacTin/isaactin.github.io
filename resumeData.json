@@ -1,0 +1,146 @@
+{
+  "main": {
+    "name": "Isaac Tin",
+    "occupation": "Computer Science Undergraduate",
+    "description": "deeply invested into learning the relavant as well as new technologies of software engineering",
+    "image": "profilepic.jpg",
+    "bio": "I am a Year 2 undergraduate who is interested in both the frontend and backend technologies. I've always thought that while the school teaches us useful skills and technologies, they do not provide a sufficient number of opportunities to put the knowledge and skills into practical usage, and hence I am eager to apply the skills and knowledge I have into new and interesting projects and software.",
+    "contactmessage": "Here are links to my relavent media accounts",
+    "email": "tin.isaac@yahoo.com.sg",
+    "phone": "+65 8222 2033",
+    "address": {
+      "city": "Singapore",
+      "nationality": "Singaporean"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload": "./Isaac_tin.pdf",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/isaac-tin-4346631a5/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/iztko/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/IsaacTin",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here describes the level of experience I have with various technologies",
+    "education": [
+      {
+        "school": "National Univsersity of Singapore",
+        "degree": "Bachelor of Computer Science(Hons)",
+        "graduated": "August 2019 - May 2023(expected)",
+        "description": "Cum. GPA: 4.17/5.00 (Second Class Honours, Upper Division)"
+      },
+      {
+        "school": "Meridian Junior College",
+        "degree": "Five Distinctions GCE A Levels (87.5)",
+        "graduated": "January 2015 - December 2016",
+        "description": "Five distinctions in GCE A Levels with a score of 87.5/90 (Mathematics, Physics, Chemistry, Economics, Project Work)."
+      }
+    ],
+    "work": [
+      {
+        "company": "Acktec Technologies",
+        "title": "Full Stack Developer Intern ",
+        "years": "May 2021 - Present",
+        "description": "Coordinated with higher-ups in the setting up and configuring of various softwares for the company such as BigBlueButton, Odoo, nextcloud. Assisted seniors with debugging and problem-solving in HTML, CSS and Javascript."
+      },
+      {
+        "company": "Tampines Town Council",
+        "title": "Temporary Admin Staff",
+        "years": "December 2018 - April 2019",
+        "description": "Coordinated communication between town residents and property officers and property managers, ensuring smooth and efficient flow of information between the two parties"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Git",
+        "level": "60%"
+      },
+      {
+        "name": "Java",
+        "level": "70%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "60%"
+      },
+      {
+        "name": "HTML,CSS,javascript",
+        "level": "50%"
+      },
+      {
+        "name": "Python",
+        "level": "60%"
+      },
+      {
+        "name": "Mern stack",
+        "level": "50%"
+      }, 
+      {
+        "name": "C",
+        "level": "50%"
+      },
+      {
+        "name": "Postgresql",
+        "level": "60%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "NUS Orbital Summer Project",
+        "category": "A web application with improved UI/UX of NUS module selection web application",
+        "image": "Modreg.jpg",
+        "url": "https://github.com/IsaacTin/nus-modreg"
+      },
+      {
+        "title": "Pepe the Frog",
+        "category": "A simple CLI application coded in Java for one of my modules' individual project requirements.",
+        "image": "Ip.jpg",
+        "url": "https://github.com/IsaacTin/ip"
+      },
+      {
+        "title": "Eva",
+        "category": "A Human Resource CLI application coded in Java for one of my modules' team project requirements",
+        "image": "TP.jpg",
+        "url": "http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title": "Resume Website",
+        "category": "A React based resume website template",
+        "image": "resume-website.jpg",
+        "url": "http://www.timbakerdev.com"
+      },
+      {
+        "title": "Coral Reef Project",
+        "category": "A React based web application using firebase database to improve efficiency on data collection of coral reef species",
+        "image": "smirkspace.jpg",
+        "url": "http://www.smirkspace.com"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user": "Kareem Abdul Jabbar"
+      },
+      {
+        "text": "That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user": "Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/personal_website/static/css/main.bab0b925.chunk.css",
+    "main.js": "/personal_website/static/js/main.80680f8d.chunk.js",
+    "main.js.map": "/personal_website/static/js/main.80680f8d.chunk.js.map",
+    "runtime-main.js": "/personal_website/static/js/runtime-main.24f5ce50.js",
+    "runtime-main.js.map": "/personal_website/static/js/runtime-main.24f5ce50.js.map",
+    "static/js/2.2002b996.chunk.js": "/personal_website/static/js/2.2002b996.chunk.js",
+    "static/js/2.2002b996.chunk.js.map": "/personal_website/static/js/2.2002b996.chunk.js.map",
+    "index.html": "/personal_website/index.html",
+    "static/css/main.bab0b925.chunk.css.map": "/personal_website/static/css/main.bab0b925.chunk.css.map",
+    "static/js/2.2002b996.chunk.js.LICENSE.txt": "/personal_website/static/js/2.2002b996.chunk.js.LICENSE.txt",
+    "static/media/aws.08dffd14.png": "/personal_website/static/media/aws.08dffd14.png",
+    "static/media/express.d61ef3d5.png": "/personal_website/static/media/express.d61ef3d5.png",
+    "static/media/firebase.6f31ddac.png": "/personal_website/static/media/firebase.6f31ddac.png",
+    "static/media/mongodb.70c82e5a.png": "/personal_website/static/media/mongodb.70c82e5a.png",
+    "static/media/node.31c0e97d.png": "/personal_website/static/media/node.31c0e97d.png",
+    "static/media/psql.6c5d698f.png": "/personal_website/static/media/psql.6c5d698f.png",
+    "static/media/react.44319306.png": "/personal_website/static/media/react.44319306.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.24f5ce50.js",
+    "static/js/2.2002b996.chunk.js",
+    "static/css/main.bab0b925.chunk.css",
+    "static/js/main.80680f8d.chunk.js"
+  ]
+}
