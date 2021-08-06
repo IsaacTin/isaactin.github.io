@@ -12,8 +12,8 @@
       "city": "Singapore",
       "nationality": "Singaporean"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload": "./Isaac_tin.pdf",
+    "website": "https://isaactin.github.io/personal_website/",
+    "resumedownload": "./Isaac_Tin.pdf",
     "social": [
       {
         "name": "Linkedin",
@@ -52,7 +52,7 @@
       {
         "company": "Acktec Technologies",
         "title": "Full Stack Developer Intern ",
-        "years": "May 2021 - Present",
+        "years": "May 2021 - Aug 2021",
         "description": "Coordinated with higher-ups in the setting up and configuring of various softwares for the company such as BigBlueButton, Odoo, nextcloud. Assisted seniors with debugging and problem-solving in HTML, CSS and Javascript."
       },
       {
@@ -115,19 +115,19 @@
         "title": "Eva",
         "category": "A Human Resource CLI application coded in Java for one of my modules' team project requirements",
         "image": "TP.jpg",
-        "url": "http://www.timbakerdev.com/originalthaifood.github.io"
+        "url": "https://github.com/IsaacTin/tp"
       },
       {
         "title": "Resume Website",
         "category": "A React based resume website template",
         "image": "resume-website.jpg",
-        "url": "http://www.timbakerdev.com"
+        "url": "https://isaactin.github.io/personal_website/"
       },
       {
         "title": "Coral Reef Project",
         "category": "A React based web application using firebase database to improve efficiency on data collection of coral reef species",
-        "image": "smirkspace.jpg",
-        "url": "http://www.smirkspace.com"
+        "image": "coral-reef.jpg",
+        "url": "https://coral-2fea3.web.app"
       }
     ]
   },
