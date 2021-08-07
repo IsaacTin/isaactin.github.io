@@ -11,7 +11,7 @@ const Media = ({data}) => {
       var email = data.email;
       var message = data.contactmessage;
       var networks= data.social.map(function(network){
-         return <li key={network.name}><a href={network.url}><i className={network.className}></i><p>{network.name}</p></a></li>
+         return <li key={network.name}><a target="_blank" href={network.url}><i className={network.className}></i><p>{network.name}</p></a></li>
 
          
       })

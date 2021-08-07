@@ -145,7 +145,7 @@ const About = ({data}) => {
                <div className="columns contact-details">
                <div className="columns download">
                   <p>
-                     <a href={resumeDownload} className="button"><i className="fa fa-eye"></i>View Resume</a>
+                     <a href={resumeDownload} target="_blank" className="button"><i className="fa fa-eye"></i>View Resume</a>
                   </p>
                   <p>
                      <a href={resumeDownload} download={resumeDownload} className="button"><i className="fa fa-download"></i>Download Resume</a>
