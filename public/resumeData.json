@@ -1,10 +1,10 @@
 {
   "main": {
     "name": "Isaac Tin",
-    "occupation": "Computer Science Undergraduate",
+    "occupation": "Computer Science Graduate and Software Engineer in Visa",
     "description": "deeply invested into learning the relavant as well as new technologies of software engineering",
     "image": "profilepic.jpg",
-    "bio": "I am a penultimate undergraduate who is interested in both the frontend and backend technologies. I've always thought that while the school teaches us useful skills and technologies, they do not provide a sufficient number of opportunities to put the knowledge and skills into practical usage, and hence I am eager to apply the skills and knowledge I have into new and interesting projects and software.",
+    "bio": "I am a computer science graduate currently working as a Software Engineer in Visa who is interested in both the frontend and backend technologies. I've always thought that while the school teaches us useful skills and technologies, they do not provide a sufficient number of opportunities to put the knowledge and skills into practical usage, and hence I am eager to apply the skills and knowledge I have into new and interesting projects and software.",
     "contactmessage": "Here are links to my relavent media accounts",
     "email": "tin.isaac@yahoo.com.sg",
     "phone": "+65 8222 2033",
@@ -38,8 +38,8 @@
       {
         "school": "National Univsersity of Singapore",
         "degree": "Bachelor of Computer Science(Hons)",
-        "graduated": "August 2019 - May 2023(expected)",
-        "description": "Cum. GPA: 4.14/5.00 (Second Class Honours, Upper Division)"
+        "graduated": "August 2019 - May 2023",
+        "description": "Cum. GPA: 4.05/5.00 (Second Class Honours, Upper Division)"
       },
       {
         "school": "Meridian Junior College",
@@ -49,6 +49,12 @@
       }
     ],
     "work": [
+      {
+        "company": "Visa",
+        "title": "Software Engineer ",
+        "years": "Jan 2023 - Current",
+        "description": "Currently working as a software engineer in Visa's operations and infrastructure team, working in the development of middleware software."
+      },
       {
         "company": "Visa",
         "title": "Software Developer Intern ",
@@ -100,6 +106,10 @@
       {
         "name": "Postgresql",
         "level": "60%"
+      },
+      {
+        "name": "Angular",
+        "level": "60%" 
       }
     ]
   },
