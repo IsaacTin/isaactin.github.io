@@ -12,7 +12,7 @@
       "city": "Singapore",
       "nationality": "Singaporean"
     },
-    "website": "https://isaactin.github.io/personal_website/",
+    "website": "https://isaactin.github.io/",
     "resumedownload": "./Isaac_Tin.pdf",
     "social": [
       {
@@ -137,7 +137,7 @@
         "title": "Resume Website",
         "category": "A React based resume website template",
         "image": "resume-website.jpg",
-        "url": "https://isaactin.github.io/personal_website/"
+        "url": "https://isaactin.github.io/"
       },
       {
         "title": "Coral Reef Project",
